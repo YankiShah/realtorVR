@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "houseTourS.data.unityweb",
+"asmCodeUrl": "houseTourS.asm.code.unityweb",
+"asmMemoryUrl": "houseTourS.asm.memory.unityweb",
+"asmFrameworkUrl": "houseTourS.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
